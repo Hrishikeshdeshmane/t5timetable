@@ -22,10 +22,7 @@ body{
 }
 p 
 { 
-border-style: solid;
-border-radius: 35px;
-border-width: 10px;
-border-color: white;
+
 margin: auto;
 width: 60%;
 padding: 10px;
